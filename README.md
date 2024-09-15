@@ -1,3 +1,17 @@
+/src
+  ├── /componentes
+  │     ├── CartelPelicula.js
+  │     ├── ListaPeliculas.js
+  │     ├── DetallesPelicula.js
+  ├── /assets
+  │     └── movies.json
+  ├── App.js
+  ├── index.js
+  ├── rutas.js
+  ├── index.css
+
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
